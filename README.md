@@ -1,6 +1,6 @@
 <h3 align="center">There is nothing more permanent than a temporary solution</h3>
 
-##### Hi there, I'm a student at BUT Faculty of Information Technology while also working as a freelance systems engineer. My main goal is to gain as much experience in the field of cybersecurity as possible. I'm, at the moment, focusing on developing my skills around XDR and security analysis as well as networking in general.
+##### Hi there, I'm a student at BUT Faculty of Information Technology while also working as a freelance security engineer. My main goal is to gain as much experience in the field of cybersecurity as possible. I'm, at the moment, focusing on developing my skills around XDR and security analysis as well as networking in general.
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
